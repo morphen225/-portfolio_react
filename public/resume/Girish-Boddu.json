@@ -1,0 +1,169 @@
+{
+	"basics": {
+		"name": "Girish Murali Boddu",
+		"label": "Senior Software Engineer",
+		"picture": "Girish.jpg",
+		"email": "girish.boddu@outlook.com",
+		"phone": "+91-7208195411",
+		"website": "",
+		"summary": "I am flexible and quick to pick up new skills. I love learning new technologies and harnessing technologies to make new and exciting things. I also have lots of ideas and enthusiasm.",
+		"location": {
+			"address": "1309,13th Floor, Shiv Siddhi CHS",
+			"postalCode": "400025",
+			"city": "Mumbai",
+			"countryCode": "IN"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "morphen225",
+				"url": "https://github.com/morphen225"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "Learningmate Solutions",
+			"location": "Mumbai,India",
+			"position": "Senior Software Engineer",
+			"website": "https://learningmate.com/",
+			"startDate": "2020-04-15",
+			"endDate": "",
+			"summary": "I am working as a senior software developer on Learning Management System, I have been mainly incharge of implementing new features and optimizing the current code.",
+			"highlights": [
+				"HTML5",
+				"CSS3",
+				"TypeScript",
+				"ES6",
+				"Angular",
+				"Angular Material",
+				"SCRUM",
+				"PHP",
+				"Laravel"
+			]
+		},
+		{
+			"company": "One leap solutions Pvt.Ltd",
+			"location": "Mumbai,India",
+			"position": "Senior Software Engineer",
+			"website": "https://oneleap.in/",
+			"startDate": "2019-06-01",
+			"endDate": "2020-03-01",
+			"summary": "I was responsible for creating customizable CRM using SAS model. Acheieve the same with technologies like PHP , LARVAVEL , ANGULAR,GRAPHQL. I also was responsible in creating WEBAPPS using ionic.",
+			"highlights": [
+				"HTML5",
+				"CSS3",
+				"TypeScript",
+				"ES6",
+				"Angular",
+				"GRAPHQL",
+				"PHP",
+				"Laravel"
+			]
+		},
+		{
+			"company": "Love Food Love Life",
+			"location": "Mumbai,India",
+			"position": "Software Engineer",
+			"website": "",
+			"startDate": "2018-05-01",
+			"endDate": "2019-05-20",
+			"summary": "I was responsible for creating E-Commerce Websites, and maintaining/devloping their existing websites.",
+			"highlights": [
+				"HTML5",
+				"CSS3",
+				"TypeScript",
+				"Angular",
+				"PHP",
+				"Laravel",
+				"JAVASCRIPT",
+				"jQuery"
+			]
+		},{
+			"company": "Ixia Solutions",
+			"location": "Mumbai,India",
+			"position": "Web Developer",
+			"website": "https://www.ixiasolutions.com/",
+			"startDate": "2017-05-01",
+			"endDate": "2018-05-18",
+			"summary": "I was responsible for creating Audio Video Recorder using WEBRTC, I also was a part of a project called starightCurve which involved building WEBGAMES using Javascript.",
+			"highlights": [
+				"HTML5",
+				"CSS3",
+				"JAVASCRIPT",
+				"jQuery"
+			]
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Wellingkar's Institute",
+			"location": "Mumbai,India",
+			"area": "Information Technology",
+			"studyType": "PGDM in IT",
+			"startDate": "2018",
+			"endDate": "2020",
+			"gpa": "",
+			"courses": []
+		},
+		{
+			"institution": "Vidyalankar School of Information Technology",
+			"location": "Mumbai,India",
+			"area": "Information Technology",
+			"studyType": "Bachelor of Science in Information Technology",
+			"startDate": "2013",
+			"endDate": "2017",
+			"gpa": "",
+			"courses": []
+		}
+	],
+	"awards": [
+		"Nominated for Individual Excellence Awards for best performance at Learning Mate",
+		"Nominated for Rising Stars Awards for best performance at Learning Mate",
+		"Awarded for Project Mentoring at Vidyalankar School of Information Technology"
+	],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Web Development",
+			"level": "Advanced",
+			"keywords": [
+				"HTML5",
+				"CSS3",
+				"SCSS",
+				"BootStrap",
+				"JavaScript",
+				"TypeScript",
+				"ES6",
+				"React.js",
+				"Angular",
+				"Node.js",
+				"ExpressJS",
+				"MongoDB",
+				"JSON",
+				"RESTful API",
+				"Gulp",
+				"Webpack",
+				"Git",
+				"Responsive"
+			]
+		}
+	],
+	"languages": [
+		{
+			"language": "English",
+			"fluency": "fluent"
+		}
+	],
+	"interests": [
+		{
+			"name": "Gaming",
+			"keywords": [
+				"Dota2",
+				"Counter Strike"
+			]
+		}
+	],
+	"references": []
+}
